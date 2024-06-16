@@ -25,15 +25,16 @@ An aspiring developer with a strong academic foundation (CGPA: 9.29) and hands-o
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
     </a>
     <a href="https://www.linkedin.com/in/ankita-kanawade" target="_blank" rel="noreferrer">
-        <img src="https://trailhead.salesforce.com/en/me/salesforcetrailhead" width="32" height="32" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
     </a>
     <a href="https://www.stackoverflow.com/users/20803270/ankita-kanawade" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </a>
     <a href="https://www.salesforce.com/trailblazer/ankita-kanawade" target="_blank" rel="noreferrer">
-        <img src="https://www.example.com/path-to-salesforce-icon.svg" width="32" height="32" />
+        <img src="[https://www.example.com/path-to-salesforce-icon.svg](https://trailhead.salesforce.com/android-chrome-192x192.png)" width="32" height="32" />
     </a>
 </p>
+
 
 
 ### Badges
