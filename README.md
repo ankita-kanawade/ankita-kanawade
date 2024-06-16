@@ -1,6 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ankita Kanawade
 =======================================================================================================================================
-
+Profile Hits :   [![HitCount](https://hits.dwyl.com/ankita-kanawade/ankita-kanawade.svg?style=flat-square)](http://hits.dwyl.com/ankita-kanawade/ankita-kanawade)
+  [![HitCount](https://hits.dwyl.com/ankita-kanawade/ankita-kanawade.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ankita-kanawade/ankita-kanawade)
 Software Developer
 ------------------
 
