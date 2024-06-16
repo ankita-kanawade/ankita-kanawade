@@ -1,8 +1,8 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ankita Kanawade
-=======================================================================================================================================
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankita-kanawade&label=Profile%20views&color=0e75b6&style=flat" alt="ankita-kanawade" /> </p>
 Software Developer
-------------------
+
 
 An aspiring developer with a strong academic foundation (CGPA: 9.29) and hands-on skills in Java, web development, and deep learning. Proficient in C, C++, HTML5, CSS3, JavaScript, MySQL, Oracle, and Spring Boot, with a passion for solving complex problems and contributing to innovative projects.
 
