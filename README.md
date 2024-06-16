@@ -31,7 +31,7 @@ An aspiring developer with a strong academic foundation (CGPA: 9.29) and hands-o
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
     </a>
     <a href="https://www.salesforce.com/trailblazer/ankita-kanawade" target="_blank" rel="noreferrer">
-        <img src="[https://www.example.com/path-to-salesforce-icon.svg](https://trailhead.salesforce.com/android-chrome-192x192.png)" width="32" height="32" />
+        <img src="https://github.com/ankita-kanawade/CloudComputing/blob/main/android-chrome-192x192.png" width="32" height="32" />
     </a>
 </p>
 
