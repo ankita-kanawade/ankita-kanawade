@@ -10,7 +10,8 @@ An aspiring developer with a strong academic foundation (CGPA: 9.29) and hands-o
 * 🌍  I'm based in Pune, Maharashtra
 * ✉️  You can contact me at [ankitakanawade123@gmail.com](mailto:ankitakanawade123@gmail.com)
 * 🤝  I'm open to collaborating on Web development, software applications, and tech innovation projects.
-
+* 🚀  I actively participate in hackathons and tech events, and I'm passionate about contributing to impactful projects.
+  
 ### Skills
 
 
