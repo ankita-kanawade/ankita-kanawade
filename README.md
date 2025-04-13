@@ -41,8 +41,8 @@ Currently, I'm working at TCS, where I contribute to developing scalable tech so
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.wix.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" width="38" height="37" alt="Flask" /></a>
-  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" width="38" height="38" alt="Power BI" /></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21~bgwhite.svg" width="40" height="38" alt="Flask" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://www.logo.wine/a/logo/Power_BI/Power_BI-Logo.wine.svg" width="39" height="39" alt="Power BI" /></a>
 </p>
 
 ---
