@@ -41,10 +41,8 @@ Currently, I'm working at TCS, where I contribute to developing scalable tech so
   <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
   <a href="https://www.wix.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" width="36" height="36" alt="Wix" /></a>
   <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="36" height="36" alt="Django" /></a>
-  <a <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" width="36" height="36" alt="Flask" />
-</a>
-  <a <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36" height="36" alt="Flask" />
-</a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" width="36" height="36" alt="Flask" /></a>
+  <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://banner2.cleanpng.com/20181110/vfu/kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-1713924082630.webp" width="36" height="36" alt="Power BI" /></a>
 </p>
 
 ---
